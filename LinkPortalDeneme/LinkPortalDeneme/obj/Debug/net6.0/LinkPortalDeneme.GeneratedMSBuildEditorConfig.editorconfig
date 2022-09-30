@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LinkPortalDeneme
+build_property.RootNamespace = LinkPortalDeneme
+build_property.ProjectDir = C:\Users\beyzanur.ugur\Desktop\LinkPortalDenemeeeee\LinkPortalDeneme\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\beyzanur.ugur\Desktop\LinkPortalDenemeeeee\LinkPortalDeneme
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/AnaSayfa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/AnaSayfa/PreProdLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcUHJlUHJvZExpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/AnaSayfa/ProdLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcUHJvZExpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/AnaSayfa/TestLink.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hU2F5ZmFcVGVzdExpbmsuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Shared/Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Shared/_LinkLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaW5rTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/beyzanur.ugur/Desktop/LinkPortalDenemeeeee/LinkPortalDeneme/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3qbxbejrzd
